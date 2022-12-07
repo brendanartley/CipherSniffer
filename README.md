@@ -2,7 +2,7 @@
 <img src="./imgs/logo.svg" alt="CipherSniffer Logo" width="500">
 </h1>
 
-This repository contains code for the CipherSniffer paper.
+This repository contains code for the [CipherSniffer paper](./report.pdf).
 
 ## Abstract
 
@@ -10,7 +10,7 @@ Ciphers are a powerful tool for encrypting communication. There are many differe
 
 ## Results
 
-In the following figure, we show the results table from the paper. A complete analysis of these results is in the CipherSniffer paper.
+In the following figure, we show the results table from the paper. A complete analysis of these results can be found in the [paper](./report.pdf).
 
 <h1 align="center">
 <img src="./imgs/model_results.jpg" alt="Model Results" width="1000">
@@ -39,6 +39,6 @@ What will you find in the dataset?
       year={2022},
       publisher={GitHub},
       journal={GitHub repository},
-	  howpublished = {\url{hhttps://github.com/brendanartley/CipherSniffer}}
+      howpublished = {\url{https://github.com/brendanartley/CipherSniffer}}
 }
 ```
